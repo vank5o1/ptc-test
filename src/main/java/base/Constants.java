@@ -2,7 +2,7 @@ package base;
 
 public class Constants {
     private Constants(){}
-    public static final String LOGIN_URL = "https://login";
+    public static final String LOGIN_URL = "https://katalon-demo-cura.herokuapp.com/";
     public static final String EMAIL_ADDRESS = "vank5o1@gmail.com";
     public static final String PASSWORD = "123456@";
     public static final String NON_EXISTING_EMAIL = "vank@ptc.com";
